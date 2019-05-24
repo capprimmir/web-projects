@@ -11,7 +11,11 @@ body{
 }
 .jumbotron {
   color: #46546d;
+  background-color: #ecf0f1;
 }
 .navbar-dark {
   background-color: #46546d;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
 }
