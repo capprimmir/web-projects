@@ -35,6 +35,12 @@ img {
   font-weight: 100;
   font-size: 2rem;
 }
+.content {
+  margin-top: 100px; 
+}
+.scrolled {
+  background-color: #73c49e;
+}
 
 @media (max-width: 1200px) {
   body {
