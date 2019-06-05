@@ -1,6 +1,16 @@
 body{
   background-color: #cbf4ed;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Nunito', sans-serif;
+}
+.museum-text h2 {
+  color: #e8896a;
+  font-weight: 100;
+  font-size: 2.5rem;
+}
+.museum-text p {
+  color: #5faa87;
+  font-size: 1.25rem;
+  line-height: 2;
 }
 #mainNav {
   font-size: 1.5rem;
@@ -15,5 +25,20 @@ body{
 #mainNav .nav-link:hover{
   color:#e8896a;
 }
+img {
+  width: 100%;
+}
+#headingGroup span {
+  color: orange;
+}
+#headingGroup h2 {
+  font-weight: 100;
+  font-size: 2rem;
+}
 
-
+@media (max-width: 1200px) {
+  body {
+    font-weight: 100;
+    font-size: 2rem;
+  }
+}
