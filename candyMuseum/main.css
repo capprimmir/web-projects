@@ -1,0 +1,19 @@
+body{
+  background-color: #cbf4ed;
+  font-family: 'Raleway', sans-serif;
+}
+#mainNav {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+#mainNav .navbar-brand {
+  color: #e8896a;
+}
+#mainNav .nav-link{
+  color: white;
+}
+#mainNav .nav-link:hover{
+  color:#e8896a;
+}
+
+
